@@ -1,0 +1,17 @@
+Student Name: Malak Louardi
+GitHub Username: Angelcode2005
+Repository: SE103-Week6
+Repository URL: https://github.com/Angelcode2005/SE103-Week6
+
+Git habits I demonstrated this week:
+I checked the repository status before staging changes.
+I used small commits with clear and specific messages.
+I reviewed changes before committing them.
+I used a .gitignore file to keep temporary and sensitive local files out of the repository.
+I created a branch to improve the README and used a pull request to review the changes.
+I checked the commit history and verified the repository files.
+
+One mistake-prevention habit I will keep:
+I will run git status before and after important Git operations to understand the state of my repository. I will review the exact files I plan to stage instead of using git add . without checking.
+
+All required files are on main: Yes
