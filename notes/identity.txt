@@ -1,0 +1,5 @@
+Full Name: Malak Louardi
+GitHub Username: Angelcode2005
+Date Started: 2026-10-12
+Auth Method: SSH
+One Git habit I want to improve: I want to inspect my changes before committing them.
