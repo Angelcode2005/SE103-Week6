@@ -1,0 +1,20 @@
+Student Name: Malak Louardi
+
+What changed:
+I added a section explaining four habits I use to work carefully with Git.
+The habits cover checking status, reviewing staged changes, writing clear commits, and verifying the branch before pushing.
+I kept the existing README content and added the new section at the end.
+
+How I verified the change:
+I read the README to confirm that the new heading and all four habits were present.
+I checked the staged changes with git diff --cached before committing.
+I also checked the self-review file and the Git status.
+
+One possible improvement a reviewer might suggest:
+A reviewer might suggest adding examples of useful Git commands.
+They might also recommend explaining how to recover safely from a mistake.
+
+Professional response I would give:
+Thank you for the feedback and suggestions.
+I will consider adding practical command examples to make the documentation more useful.
+I will review any additional changes before committing them.
